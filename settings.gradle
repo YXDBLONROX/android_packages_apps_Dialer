@@ -1,0 +1,4 @@
+rootProject.name='android_packages_apps_Dialer'
+include ':assets/quantum/res/drawable'
+include ':java/com/android'
+include ':prebuilts'
